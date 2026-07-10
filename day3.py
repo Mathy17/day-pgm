@@ -1,0 +1,6 @@
+a=int(input("Enter first name:"))
+b=int(input("Enter s4cond name:"))
+print("Addition=",a+b)
+print("Subraction=",a-b)
+print("Multiplication=",a*b)
+print("Division=",a/b)
